@@ -10,15 +10,15 @@ Before, getting into the actual code, we need to understand, that this chatbot o
 
 **To install the above modules on your system, use the following :**
 
-pip install pyttsx3
-pip install SpeechRecognition
-pip install wolframalpha
-pip install wikipedia
+pip install pyttsx3, 
+pip install SpeechRecognition,
+pip install wolframalpha,
+pip install wikipedia,
 
 **Creating a WolframAlpha Account**
 Since, this chatbot uses WolframAlpha API to find answers, the user must create a free account by signing up at . Follow the steps required to set up a student account that is free and is for personal use only. Generate your app-id and copy it for further reference.
 
 **Concepts Followed**
-Speech Recognition: Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
-TTS – text to speech: a form of speech synthesis that converts text into spoken voice output.
+**Speech Recognition:** Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
+**TTS – text to speech**: a form of speech synthesis that converts text into spoken voice output.
 Computational Knowledge Integration: Integrating your bot with computational knowledge intelligence using Wolfram|Alpha.
