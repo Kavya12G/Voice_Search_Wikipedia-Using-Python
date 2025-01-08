@@ -45,12 +45,14 @@ Technologies Used
   
     * pyaudio (optional): Backend for audio input.
   
-Concepts Followed
+How It Works
+-----------------
+1. The application listens to the user's voice input.
+   
+2. Converts the speech to text using speech_recognition.
+   
+3. Searches the corresponding topic on Wikipedia using wikipedia-api.
+   
+4. Outputs the result as text and/or reads it aloud using a text-to-speech library.
 
-----------------------------------------------------
-**Speech Recognition:** Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
-
-**TTS – text to speech**: a form of speech synthesis that converts text into spoken voice output.
-
-**Computational Knowledge Integration:** Integrating your bot with computational knowledge intelligence using Wolfram|Alpha.
-
+   
