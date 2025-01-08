@@ -13,7 +13,7 @@ Features
   
 * Handles errors for invalid searches or no internet connection.
   
-To install the above modules on your system, use the following :
+To install the below modules on your system, use the following :
 -------------------------------------------------------------------------
 1. pip install pyttsx3
    
