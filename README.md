@@ -4,7 +4,7 @@ Hii all, I developed this project named **VOICE-SEARCH-WIKIPEDIA** using python.
 Leveraged Python libraries such as SpeechRecognition for voice input, Pyttsx3 for text-to-speech conversion, and the Wikipedia API for fetching and displaying search results.
 
 
-**Before, getting into the actual code, we need to understand, that this chatbot or assistant will be voice-based, so we need to import the following modules.**
+Before, getting into the actual code, we need to understand, that this chatbot or assistant will be voice-based, so we need to import the following modules.
 -----------------------------------------------------------------------------------------------------------------------
 
 **pyttsx3:** A python package that supports common text to speech engines on Mac OS, Windows and Linux.
@@ -14,13 +14,16 @@ Leveraged Python libraries such as SpeechRecognition for voice input, Pyttsx3 fo
 **wolframalpha:** Python’s support library for WolframAlpha computational intelligence .
 
 **wikipedia:** Python’s library that makes it easy to access and parse data from Wikipedia.
------------------------------------------------------------------------------------------------
 
-**To install the above modules on your system, use the following :**
+To install the above modules on your system, use the following :
+-------------------------------------------------------------------------
 
 pip install pyttsx3, 
+
 pip install SpeechRecognition,
+
 pip install wolframalpha,
+
 pip install wikipedia,
 
 **Creating a WolframAlpha Account**
