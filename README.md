@@ -55,4 +55,10 @@ How It Works
    
 4. Outputs the result as text and/or reads it aloud using a text-to-speech library.
 
+How to Run the Project
+------------------------
+1. Clone the repository:
+   
+   git clone https://github.com/Kavya12G/Voice_Search_Wikipedia-Using-Python
+
    
